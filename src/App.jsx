@@ -19,7 +19,8 @@ function App() {
   const [dice, setDice] = useState(generateDiceArray());
 
   const gameWon = dice.every(
-    (die) => die.isHeld && die.isHeld === dice[0].isHeld
+    (die) =>
+      die.isHeld && die.isHeld === dice[0].isHeld && die.value === dice[0].value
   );
 
   const handleRoll = () => {
