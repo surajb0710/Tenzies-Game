@@ -2,14 +2,13 @@ Tenzies Game 🎲
 A fun and interactive web-based version of the popular dice game, Tenzies! Roll the dice, hold your choices, and match all dice to win. Challenge yourself and enjoy the game.
 
 Table of Contents
-About the Game
-Features
-How to Play
-Technologies Used
-Setup and Installation
-Future Enhancements
-Contributing
-License
+- About the Game
+- Features
+- How to Play
+- Technologies Used
+- Setup and Installation
+- Contributing
+- License
 
 About the Game
 Tenzies is a simple yet addictive dice game. The objective is to roll the dice until all of them show the same number. You can hold the dice you want to keep and roll the rest. Can you beat your best time?
